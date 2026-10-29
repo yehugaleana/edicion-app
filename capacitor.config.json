@@ -1,0 +1,9 @@
+{
+  "appId": "com.yehu.edicion",
+  "appName": "Edición del Día",
+  "webDir": "www",
+  "server": {
+    "url": "https://yehugaleana.github.io/edicion-del-dia/",
+    "androidScheme": "https"
+  }
+}
